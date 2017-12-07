@@ -1,0 +1,50 @@
+body {
+	background: url('giphy.webp');
+	font-family: 'Shadows Into Light', cursive;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+#giphForm{
+	float: right;
+	background:url(giphy.gif);
+	text-align: center;
+	color: white;
+	border-radius: 50%;
+}
+
+#giphText{
+	background-color: #374363;
+	color: white;
+	font-size: 20px;
+	background:url(wow.gif);
+	border-radius: 9px;
+}
+
+button{
+	color: white;
+	background-color: #374363;
+	border: 1 white;
+	margin: 10px;
+	border-radius: 10px;
+	background:url(wow.gif);
+}
+
+#giphButton{
+	color: white;
+	background-color: #374363;
+	border: 1 white;
+	margin: 10px;
+	border-radius: 10px;
+	background:url(wow.gif);
+}
+
+label{
+	border-radius: 10px;
+	background:url(wow.gif);
+	width: 50%;
+}
+
+#giphHere{
+	color: white;
+}
